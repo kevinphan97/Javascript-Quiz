@@ -16,7 +16,7 @@
   To install this application simply clone the repository.
 
   ## Usage
-  To use the app please use the following link: 
+  To use the app please use the following link: https://kevinphan97.github.io/Javascript-Quiz/
 
   ## Contribution
   No contribution needed.
